@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Screen.ScrennNoLogin.Register_User"
+    android:background="@color/teal_700">
+
+    <EditText
+        android:id="@+id/emailFormRegistro"
+        android:layout_width="287dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="@string/ingrese_email"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_repetir_password" />
+
+    <EditText
+        android:id="@+id/passFormRegistro"
+        android:layout_width="287dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints="string/ingrese_password"
+        android:ems="10"
+        android:hint="@string/ingrese_password"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailFormRegistro" />
+
+    <EditText
+        android:id="@+id/RepitpassFormRegistro"
+        android:layout_width="287dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="@string/repite_password"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/passFormRegistro" />
+
+        <TextView
+            android:id="@+id/tv_repetir_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="52dp"
+            android:text="@string/create_your_account"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.193"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    <EditText
+        android:id="@+id/nombreFormRegistro"
+        android:layout_width="287dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="@string/ingrese_nombre"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RepitpassFormRegistro" />
+
+
+    <EditText
+        android:id="@+id/apellidosFormRegistro"
+        android:layout_width="287dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="ingrese apellidos"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nombreFormRegistro" />
+
+
+
+
+    <EditText
+        android:id="@+id/ciudadFormRegistro"
+        android:layout_width="287dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Ingrese Ciudad"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/modificar_mi_pefil_datepicker" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="282dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="24dp"
+        android:text="Fecha de nacimiento"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/apellidosFormRegistro" />
+
+    <DatePicker
+        android:id="@+id/modificar_mi_pefil_datepicker"
+        android:layout_width="288dp"
+        android:layout_height="92dp"
+        android:calendarViewShown="false"
+        android:datePickerMode="spinner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/btn_create_user"
+        android:layout_width="158dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="141dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="153dp"
+        android:text="Registrar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ciudadFormRegistro" />
+
+    <TextView
+        android:id="@+id/tv_repetir_password2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/already_have_an_account"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_create_user" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

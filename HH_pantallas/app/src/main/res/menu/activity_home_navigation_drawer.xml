@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/nav_Home_Lugares"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Lugares" />
+        <item
+            android:id="@+id/nav_Favoritos_Lugares"
+            android:icon="@mipmap/ic_favorite_false"
+            android:title="Lugares favoritos" />
+        <item
+            android:id="@+id/nav_Home_Trabajo"
+            android:icon="@drawable/ic_menu_color_work"
+            android:title="@string/menu_tareas" />
+
+        <item
+            android:id="@+id/nav_Favoritos_Trabajo"
+            android:icon="@mipmap/ic_favorite_false"
+            android:title="Trabajo Favoritos" />
+        <item
+            android:id="@+id/nav_Mensajes"
+            android:icon="@drawable/ic_menu_mensaje"
+            android:title="@string/menu_Mensajes" />
+
+        <item
+            android:id="@+id/nav_Mi_Perfil"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Mi Perfil" />
+<!--
+        <item
+            android:id="@+id/nav_Ayudas"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/manu_ayudas" />
+
+-->
+
+
+        <item
+            android:id="@+id/nav_AboutUs"
+            android:icon="@drawable/ic_menu_color_aboutus"
+            android:title="@string/menu_about_us" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_settings" />
+
+    </group>
+
+</menu>

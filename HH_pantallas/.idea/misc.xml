@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/drawable/circular_background.xml" value="0.2325" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/drawable/drawer_background_highlight.xml" value="0.236" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/drawable/drawer_background_selector.xml" value="0.236" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/drawable/drawer_selector.xml" value="0.236" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.259" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/drawable/side_nav_bar.xml" value="0.259" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout-v23/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout-w1240dp/activity_login_activitysssss.xml" value="0.23560910307898258" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout-w936dp/activity_login_activitysssss.xml" value="0.275" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_about_us_info.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_home_content_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_home_lateral.xml" value="0.26510416666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_login_activitysssss.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_lugares_rv.xml" value="0.22" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_menu_navegacion_principal.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_mi_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_mi_perfil2.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_modificar_mi_perfil.xml" value="0.22" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_plantilla_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_plantilla_menu_lat.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_register_user.xml" value="0.2217741935483871" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/activity_usuari_rv_layout.xml" value="0.5" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/app_bar_plantilla_menu_lat.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/avboutus_rv_layaout.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/content_plantilla_menu_lat.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/content_probando_menu_lat.xml" value="0.221875" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/fragment_gallery.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/fragment_home.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/fragment_slideshow.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/home_content_fragment.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/lugares_rv_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/menu_lateral.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/nav_header.xml" value="0.33" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/nav_header_plantilla_menu_lat.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/nav_header_probando_menu_lat.xml" value="0.221875" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/layout/serach_toolbar.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/menu/activity_home_navigation_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/menu/activity_main_drawer.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/menu/plantilla_menu_lat.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/Manu/AndroidStudioProjects/HH_pantallas/app/src/main/res/menu/probando_menu_lat.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
